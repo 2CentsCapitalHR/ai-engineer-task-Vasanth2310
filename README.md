@@ -121,15 +121,6 @@ Corporate Agent/
 
 ---
 
-## 🗼 Output Examples
-
-**Before Review**
-![Before Review](examples/before_review.png)
-
-**After Review with Inline Comments**
-![After Review](examples/after_review.png)
-
-
 ## 🖼️ Output Images
 
 The following images are generated in the `Output/` folder after running the application:
