@@ -132,6 +132,8 @@ The following images are generated in the `Output/` folder after running the app
 | 3.png | ![3](Output/3.png) |
 | 4.png | ![4](Output/4.png) |
 
+The Generated / Reviewed doccuments are attached in the Output Folder.
+
 ## 📌 Notes
 
 * Ensure your `GEMINI_API_KEY` is active before running the app.
