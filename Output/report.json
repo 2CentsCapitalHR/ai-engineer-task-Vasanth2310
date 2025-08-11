@@ -1,0 +1,140 @@
+{
+  "process": "Company Incorporation",
+  "documents_uploaded": 4,
+  "uploaded_document_types": [
+    "NDA",
+    "Articles of Association",
+    "Shareholder Resolution",
+    "Standard Employment Contract"
+  ],
+  "required_documents": 8,
+  "missing_documents": [
+    "Change of Registered Address Notice",
+    "Board Resolution",
+    "Memorandum of Association",
+    "Register of Members and Directors",
+    "Incorporation Application Form",
+    "UBO Declaration Form"
+  ],
+  "issues_found": [
+    {
+      "document": "Templates_SHReso_AmendmentArticles-v1-20220107.docx",
+      "detected_types": [
+        "Articles of Association",
+        "Shareholder Resolution"
+      ],
+      "issues_found": [
+        {
+          "paragraph_index": 0,
+          "issue": "Clause concerns ownership/shareholders but UBO disclosures are not referenced.",
+          "severity": "Medium",
+          "suggestion": "Ensure the document includes/links to an UBO declaration form where relevant.",
+          "citation": "ADGM registry/UBO guidance (check ADGM docs)"
+        },
+        {
+          "paragraph_index": 10,
+          "issue": "Clause concerns ownership/shareholders but UBO disclosures are not referenced.",
+          "severity": "Medium",
+          "suggestion": "Ensure the document includes/links to an UBO declaration form where relevant.",
+          "citation": "ADGM registry/UBO guidance (check ADGM docs)"
+        },
+        {
+          "paragraph_index": 24,
+          "issue": "Clause concerns ownership/shareholders but UBO disclosures are not referenced.",
+          "severity": "Medium",
+          "suggestion": "Ensure the document includes/links to an UBO declaration form where relevant.",
+          "citation": "ADGM registry/UBO guidance (check ADGM docs)"
+        }
+      ]
+    },
+    {
+      "document": "ADGM Standard Employment Contract - ER 2019 - Short Version (May 2024).docx",
+      "detected_types": [
+        "NDA",
+        "Standard Employment Contract"
+      ],
+      "issues_found": [
+        {
+          "paragraph_index": 55,
+          "issue": "Clause concerns ownership/shareholders but UBO disclosures are not referenced.",
+          "severity": "Medium",
+          "suggestion": "Ensure the document includes/links to an UBO declaration form where relevant.",
+          "citation": "ADGM registry/UBO guidance (check ADGM docs)"
+        },
+        {
+          "paragraph_index": 194,
+          "issue": "Possible missing signature / execution block.",
+          "severity": "Medium",
+          "suggestion": "Ensure there is a signature block with printed name, title and date.",
+          "citation": "ADGM execution signature guidance (template)"
+        },
+        {
+          "paragraph_index": 198,
+          "issue": "Governing law clause present but does not specify ADGM.",
+          "severity": "High",
+          "suggestion": "Modify governing law clause to explicitly reference ADGM jurisdiction.",
+          "citation": "ADGM Companies Regulations 2020, Art. 6 (example)"
+        }
+      ]
+    },
+    {
+      "document": "ADGM Standard Employment Contract Template - ER 2024 (Feb 2025).docx",
+      "detected_types": [
+        "NDA",
+        "Standard Employment Contract"
+      ],
+      "issues_found": [
+        {
+          "paragraph_index": 61,
+          "issue": "Clause concerns ownership/shareholders but UBO disclosures are not referenced.",
+          "severity": "Medium",
+          "suggestion": "Ensure the document includes/links to an UBO declaration form where relevant.",
+          "citation": "ADGM registry/UBO guidance (check ADGM docs)"
+        },
+        {
+          "paragraph_index": 247,
+          "issue": "Governing law clause present but does not specify ADGM.",
+          "severity": "High",
+          "suggestion": "Modify governing law clause to explicitly reference ADGM jurisdiction.",
+          "citation": "ADGM Companies Regulations 2020, Art. 6 (example)"
+        }
+      ]
+    },
+    {
+      "document": "adgm-ra-resolution-multiple-incorporate-shareholders-LTD-incorporation-v2.docx",
+      "detected_types": [
+        "Articles of Association"
+      ],
+      "issues_found": [
+        {
+          "paragraph_index": 20,
+          "issue": "Clause concerns ownership/shareholders but UBO disclosures are not referenced.",
+          "severity": "Medium",
+          "suggestion": "Ensure the document includes/links to an UBO declaration form where relevant.",
+          "citation": "ADGM registry/UBO guidance (check ADGM docs)"
+        },
+        {
+          "paragraph_index": 27,
+          "issue": "Clause concerns ownership/shareholders but UBO disclosures are not referenced.",
+          "severity": "Medium",
+          "suggestion": "Ensure the document includes/links to an UBO declaration form where relevant.",
+          "citation": "ADGM registry/UBO guidance (check ADGM docs)"
+        },
+        {
+          "paragraph_index": 51,
+          "issue": "Clause concerns ownership/shareholders but UBO disclosures are not referenced.",
+          "severity": "Medium",
+          "suggestion": "Ensure the document includes/links to an UBO declaration form where relevant.",
+          "citation": "ADGM registry/UBO guidance (check ADGM docs)"
+        },
+        {
+          "paragraph_index": 59,
+          "issue": "Clause concerns ownership/shareholders but UBO disclosures are not referenced.",
+          "severity": "Medium",
+          "suggestion": "Ensure the document includes/links to an UBO declaration form where relevant.",
+          "citation": "ADGM registry/UBO guidance (check ADGM docs)"
+        }
+      ]
+    }
+  ]
+}
