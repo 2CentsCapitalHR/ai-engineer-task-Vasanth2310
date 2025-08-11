@@ -129,7 +129,17 @@ Corporate Agent/
 **After Review with Inline Comments**
 ![After Review](examples/after_review.png)
 
----
+
+## 🖼️ Output Images
+
+The following images are generated in the `Output/` folder after running the application:
+
+| Image | Preview |
+|-------|---------|
+| 1.png | ![1](Output/1.png) |
+| 2.png | ![2](Output/2.png) |
+| 3.png | ![3](Output/3.png) |
+| 4.png | ![4](Output/4.png) |
 
 ## 📌 Notes
 
